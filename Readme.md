@@ -1,6 +1,6 @@
 # PROJECT: HỆ THỐNG GIỮ LÀN ĐƯỜNG BẰNG XỬ LÍ ẢNH PYTHON
 
-- Project này liên hệ đến lĩnh vực xe tự hành. Trong tương lai, các chuyên gia dự đoán rằng xe tự hành sẽ trở thành xu hướng và phổ biến trong giao thông đường bộ. 
+- Project này liên hệ đến lĩnh vực xe tự hành giúp có một góc nhìn cơ bản về hệ thống tự động trên ô tô   
 
 ### Thông tin về source code:
 
